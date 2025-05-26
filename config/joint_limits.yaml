@@ -50,32 +50,32 @@ joint_limits:
     max_acceleration: 0
   left_left_inner_finger_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: 2.0
     has_acceleration_limits: false
     max_acceleration: 0
   left_left_inner_knuckle_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: 2.0
     has_acceleration_limits: false
     max_acceleration: 0
   left_left_outer_knuckle_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: 2.0
     has_acceleration_limits: false
     max_acceleration: 0
   left_right_inner_finger_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: 2.0
     has_acceleration_limits: false
     max_acceleration: 0
   left_right_inner_knuckle_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: 2.0
     has_acceleration_limits: false
     max_acceleration: 0
   left_right_outer_knuckle_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: 2.0
     has_acceleration_limits: false
     max_acceleration: 0
   right_finger_width_joint:
@@ -120,31 +120,31 @@ joint_limits:
     max_acceleration: 0
   right_left_inner_finger_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: 2.0
     has_acceleration_limits: false
     max_acceleration: 0
   right_left_inner_knuckle_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: 2.0
     has_acceleration_limits: false
     max_acceleration: 0
   right_left_outer_knuckle_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: 2.0
     has_acceleration_limits: false
     max_acceleration: 0
   right_right_inner_finger_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: 2.0
     has_acceleration_limits: false
     max_acceleration: 0
   right_right_inner_knuckle_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: 2.0
     has_acceleration_limits: false
     max_acceleration: 0
   right_right_outer_knuckle_joint:
     has_velocity_limits: true
-    max_velocity: 2
+    max_velocity: 2.0
     has_acceleration_limits: false
     max_acceleration: 0

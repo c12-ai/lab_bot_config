@@ -74,7 +74,7 @@
     <end_effector name="left_ee" parent_link="left_flange" group="left_hand" parent_group="left_arm"/>
     <end_effector name="right_ee" parent_link="right_flange" group="right_hand" parent_group="right_arm"/>
     <!--VIRTUAL JOINT: Purpose: this element defines a virtual joint between a robot link and an external frame of reference (considered fixed with respect to the robot)-->
-    <virtual_joint name="virtual_joint" type="planar" parent_frame="world" child_link="base_box"/>
+    <virtual_joint name="virtual_joint" type="fixed" parent_frame="world" child_link="base_box"/>
     <!--DISABLE COLLISIONS: By default it is assumed that any link of the robot could potentially come into collision with any other link in the robot. This tag disables collision checking between a specified pair of links. -->
     
     <!--PASSIVE JOINT: Purpose: this element is used to mark joints that are not actuated-->
